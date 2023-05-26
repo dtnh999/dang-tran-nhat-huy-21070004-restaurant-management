@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Storage: MyString
+  Ingredients: MyString
+  Suppliers: MyString
+  Date: 1
+
+two:
+  Storage: MyString
+  Ingredients: MyString
+  Suppliers: MyString
+  Date: 1
